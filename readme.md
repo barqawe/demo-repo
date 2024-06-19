@@ -1,4 +1,5 @@
 #wesam
 
 n
-word 
+ w 
+ 
