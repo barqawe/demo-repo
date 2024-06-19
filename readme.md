@@ -1,0 +1,4 @@
+#wesam
+
+n
+word 
